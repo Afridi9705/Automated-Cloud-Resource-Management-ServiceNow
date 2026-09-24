@@ -204,3 +204,23 @@ Shaik Afridi
 
 Computer Science Engineering Student
 Gayatri Vidya Parishad College of Engineering
+
+
+## Project Resources
+
+### ServiceNow Scripts
+
+- [Business Rule — Prevent Duplicate Requests](scripts/Business-Rules/Prevent-Duplicate-Requests.js)
+- [Business Rule — Trigger Provisioning API](scripts/Business-Rules/Trigger-Provisioning-API.js)
+- [Client Script — Warn on Production Environment](scripts/Client-Scripts/Warn-on-Production-Environment.js)
+- [Client Script — Fetch Requester Email](scripts/Client-Scripts/Fetch-Requester-Email.js)
+- [Script Include — CloudResourceUtils](scripts/Script-Includes/CloudResourceUtils.js)
+- [Script Include — CloudUserAjax](scripts/Script-Includes/CloudUserAjax.js)
+
+### Screenshots
+
+All project screenshots are available in the [screenshots](screenshots/) folder.
+
+### Documentation
+
+Project documentation and deployment files are available in the [documentation](documentation/) and [update-set](update-set/) folders.
